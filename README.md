@@ -4,13 +4,23 @@
 
 ###Demo
 
---
 
 ![](/image/1.png)
 
-###Usage
+--
+
+###Gradle
+```
+dependencies {
+	compile 'com.recker.flyshapeimageview:flyshapeimageview:1.0'  
+}
+
+```
 
 --
+
+###Usage
+
 **圆形**
 
 ```java
